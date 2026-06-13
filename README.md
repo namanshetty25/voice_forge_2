@@ -1,6 +1,6 @@
 # Voice Forge 2
 
-Voice Forge 2 is a state-of-the-art, low-latency voice cloning application designed to replicate high-fidelity human speech from minimal audio samples. Built with a modular architecture, it combines advanced deep learning synthesis with a lightweight, developer-friendly interface for real-time applications.
+Voice Forge 2 is a low-latency voice cloning application designed to replicate high-fidelity human speech from minimal audio samples. Built with a modular architecture, it combines advanced deep learning synthesis with a lightweight, developer-friendly interface for real-time applications.
 
 ## 🚀 Features
 
